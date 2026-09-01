@@ -1,16 +1,24 @@
-## Hi there 👋
+Apoorva Khona
+Senior Front-End Developer
 
-<!--
-**apoorvakhona-dev/apoorvakhona-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React.js | Next.js | TypeScript | Micro-Frontends | AI-Assisted Engineering
 
-Here are some ideas to get you started:
+7+ years building enterprise-scale web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------
+
+ABOUT ME
+
+TECHNICAL SKILLS
+
+FEATURED PROJECTS
+
+AI-ASSISTED DEVELOPMENT
+
+ARCHITECTURE
+
+TESTING & QUALITY
+
+CURRENTLY LEARNING
+
+CONNECT WITH ME
